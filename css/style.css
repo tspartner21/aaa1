@@ -1,0 +1,9 @@
+@import url(_reset.scss);
+div {
+  background-color: orange;
+}
+div h1 {
+  font-size: 2rem;
+}
+
+/*# sourceMappingURL=style.css.map */
