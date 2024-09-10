@@ -6,4 +6,15 @@ div h1 {
   font-size: 2rem;
 }
 
+.box1 {
+  background-color: hotpink;
+}
+
+.box2 {
+  background-color: aqua;
+}
+.box2 h2 {
+  font-size: 3rem;
+}
+
 /*# sourceMappingURL=style.css.map */
